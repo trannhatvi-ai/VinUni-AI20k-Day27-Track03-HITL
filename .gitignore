@@ -27,3 +27,11 @@ Thumbs.db
 *.sqlite
 *.db
 scratch/
+
+# Lab assistance artifacts
+docs/superpowers/
+
+# Local agent/tool metadata
+.claude/
+AGENTS.md
+CLAUDE.md
